@@ -105,6 +105,7 @@
     "nopt": "3.x",
     "once": "1.x",
     "resolve": "1.1.x",
+    "source-map": "0.5.x",
     "supports-color": "^3.1.0",
     "which": "^1.1.1",
     "wordwrap": "^1.0.0"
@@ -115,6 +116,9 @@
     "jshint": "^2.8.0",
     "nodeunit": "0.9.x",
     "requirejs": "2.x",
-    "rimraf": "^2.4.3"
+    "coveralls": "2.x",
+    "glob": "4.4.x",
+    "browserify": "9.x",
+    "traceur": "0.x"
   }
 }
